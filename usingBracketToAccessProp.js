@@ -11,3 +11,4 @@ let spaceship = {
   let isActive = spaceship['Active Mission'];
   
   console.log(spaceship['Active Mission']);
+  //how to access values of a property of an Object using brackets[]
